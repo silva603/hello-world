@@ -2,6 +2,7 @@
 
 # Incremental Backup Script using tar.
 # Date: 21th of march - 2013
+# By 0T3B
 
 DIR_BKP="/root /usr/local/sbin /usr/local/bin /etc /var/www"
 DEST=/backup/FS/`hostname`
